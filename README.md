@@ -96,7 +96,7 @@ This work shows how even modest AI systems can **modernize waste management** an
 
 ---
 
-## ⚠️ Challenge
+## ⚠️ Challenges
 
 Key issues faced:
 1. Image format inconsistencies (JPEG, PNG, HEIC)
